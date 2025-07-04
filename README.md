@@ -1,4 +1,4 @@
-# 🛒 Task 7: Sales Summary Using SQLite in Python
+#  Task 7: Sales Summary Using SQLite in Python
 
 This task demonstrates how to use SQLite with Python to generate a basic sales summary, including total quantity and total revenue per product. The output is displayed in the console and visualized with a bar chart.
 
